@@ -23,14 +23,14 @@ def cleanup_frame_US(kind,df):
 def get_data(kind='confirmed',US_states=False):
     if not US_states:
         if kind in ('confirmed','deaths','recovered'):
-            return cleanup_frame(pd.read_csv(f'data/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{kind}_global.csv'))
+            return cleanup_frame(pd.read_csv(f'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{kind}_global.csv'))
         elif kind == 'infected':
             return get_data('confirmed',US_states).sub(get_data('recovered'),US_states).add(get_data('deaths',US_states))
         else:
             raise TypeError(f'Unknown kind: {kind}')
     else:
         if kind in ('confirmed','deaths'):
-            return cleanup_frame_US(kind,pd.read_csv(f'data/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{kind}_US.csv'))
+            return cleanup_frame_US(kind,pd.read_csv(f'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{kind}_US.csv'))
         elif kind == 'infected':
             return get_data('confirmed',US_states).sub(get_data('deaths',US_states))
             
@@ -68,21 +68,20 @@ def topchart(kind,count=10,file=None,US_states=False, mean=False):
         df=order_with_latest_data(get_data(kind,US_states))
     chart(df,list(df.head(count).index),title=title,file=file)
 
-def create_topchart_files():
+def create_topchart_files(directory=None):
+    nameparts={}
+    filenametemplate="{directory}/{kind}{place}{mean}.png"
+    nameparts['directory']=directory if directory else "."
     for mean in (False,True):
-        # Draw global charts
+        nameparts['mean']="_c14davg" if directory else ""
+        nameparts['place']=""
         for kind in ('confirmed','recovered','deaths','infected'):
-            filename=kind
-            if mean:
-                filename += '_c14davg'
-            filename+='.png'
-            topchart(kind,file=filename, mean=mean)
+            nameparts['kind']=kind
+            topchart(kind,file=filenametemplate.format(**nameparts), mean=mean)
+        nameparts['place']="_US"
         for kind in ('confirmed','deaths','infected'):
-            filename=kind + '_US'
-            if mean:
-                filename += '_c14davg'
-            filename += '.png'
-            topchart(kind,file=filename,US_states=True,mean=mean)
+            nameparts['kind']=kind
+            topchart(kind,file=filenametemplate.format(**nameparts),US_states=True,mean=mean)
 
 if __name__ == '__main__':
     create_topchart_files()
