@@ -2,7 +2,7 @@ import git, glob, covid19
 
 def update_data(repo):
     cmd=repo.git()
-    cmd.pull("--rebase",'upstream','master')
+    cmd.pull('upstream','master')
     cmd.push()
 
 def update_docs(repo):
