@@ -1,5 +1,3 @@
-# COVID-19 Charts
-
 ## Confirmed infections
 
 ### Top 10 Countries
