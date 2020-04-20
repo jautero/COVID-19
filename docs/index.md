@@ -22,8 +22,8 @@
 
 ### Top 10 Countries
 
-![Graph of infected of top 10 countries](infections_c14davg.png)
+![Graph of infected of top 10 countries](infected_c14davg.png)
 
 ### Top 10 US States
 
-![Graph of infected of top 10 US states](infections_US_c14davg.png)
+![Graph of infected of top 10 US states](infected_US_c14davg.png)
