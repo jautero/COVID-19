@@ -1,4 +1,4 @@
 pandas
 matplotlib
 gitpython
-jupyterlabs
+jupyterlab
