@@ -3,7 +3,7 @@ import covid19
 
 def update_data(repo):
     cmd=repo.git()
-    cmd.pull("--rebase",'upstream')
+    cmd.pull("--rebase",'upstream','master')
     cmd.push()
 
 if __name__ == '__main__':
