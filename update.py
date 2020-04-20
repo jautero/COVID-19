@@ -8,3 +8,4 @@ def update_data(repo):
 
 if __name__ == '__main__':
     repo=git.Repo(".")
+    update_data(repo)
