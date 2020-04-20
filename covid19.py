@@ -73,7 +73,7 @@ def create_topchart_files(directory=None):
     filenametemplate="{directory}/{kind}{place}{mean}.png"
     nameparts['directory']=directory if directory else "."
     for mean in (False,True):
-        nameparts['mean']="_c14davg" if directory else ""
+        nameparts['mean']="_c14davg" if mean else ""
         nameparts['place']=""
         for kind in ('confirmed','recovered','deaths','infected'):
             nameparts['kind']=kind
