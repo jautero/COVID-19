@@ -1,5 +1,5 @@
 <script>
-    def toggle_avg(checkbox) (
+    function toggle_avg(checkbox) (
         if (checkbox.checked) {
             searchvalue=".png";
             newvalue="_c14davg.png";
