@@ -1,5 +1,5 @@
 <script>
-    function toggle_avg(checkbox) (
+    function toggle_avg(checkbox) {
         if (checkbox.checked) {
             searchvalue=".png";
             newvalue="_c14davg.png";
@@ -11,7 +11,7 @@
         for(var i=0; i< images.length; i++) {
             images[i].src=images[i].src.replace(searchvalue,newvalue);
         }
-    )
+    }
 </script>
 
 <input type="checkbox" onchange="toggle_avg(this);" checked> Use 14 day average
