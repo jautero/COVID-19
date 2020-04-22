@@ -14,7 +14,7 @@
     )
 </script>
 
-<input type="checkbox" onchange="toggle_avg(this);">
+<input type="checkbox" onchange="toggle_avg(this);" checked>
 ## Confirmed infections
 
 ### Top 10 Countries
