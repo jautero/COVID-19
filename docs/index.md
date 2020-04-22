@@ -1,3 +1,20 @@
+<script>
+    def toggle_avg(checkbox) (
+        if (checkbox.checked) {
+            searchvalue=".png";
+            newvalue="_c14davg.png";
+        } else {
+            searchvalue="_c14davg.png";
+            newvalue=".png";
+        }
+        images=document.getElementsByTagName("img")
+        for(var i=0; i< images.length; i++) {
+            images[i].src=images[i].src.replace(searchvalue,newvalue);
+        }
+    )
+</script>
+
+<input type="checkbox" onchange="toggle_avg(this);">
 ## Confirmed infections
 
 ### Top 10 Countries
