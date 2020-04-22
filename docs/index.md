@@ -14,7 +14,7 @@
     )
 </script>
 
-<input type="checkbox" onchange="toggle_avg(this);" checked>
+<input type="checkbox" onchange="toggle_avg(this);" checked> Use 14 day average
 ## Confirmed infections
 
 ### Top 10 Countries
