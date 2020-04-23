@@ -75,7 +75,7 @@ def topchart(kind,count=10,file=None,US_states=False, mean=False):
 def order_countries_using_date(df,countries,order_date=None):
     if not order_date:
         order_date=datetime.date.today()-datetime.timedelta(days=1)
-    return sorted(countries,key=lambda country: df.at[country,order_date.isoformat()])
+    return sorted(countries,key=lambda country: df.at[country,order_date.isoformat()],reverse=True)
 
 def create_topchart_files(directory=None):
     nameparts={}
