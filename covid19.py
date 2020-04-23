@@ -4,6 +4,9 @@ import pandas as pd
 import itertools, datetime
 import matplotlib.pyplot as plt
 
+EU_countries=["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czechia", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"]
+Nordics=['Denmark','Finland','Iceland','Norway','Sweden']
+
 def ISOdate(date):
     return pd.Timestamp(date).strftime('%Y-%m-%d')
     
@@ -68,6 +71,10 @@ def topchart(kind,count=10,file=None,US_states=False, mean=False):
         df=order_with_latest_data(get_data(kind,US_states))
     chart(df,list(df.head(count).index),title=title,file=file)
 
+def order_countries_using_yesterdays_data(df,countries):
+    yesterday=datetime.date.today()-datetime.timedelta(days=1)
+    return sorted(countries,key=lambda country: df.at(country,yesterday.isoformat()))
+
 def create_topchart_files(directory=None):
     nameparts={}
     filenametemplate="{directory}/{kind}{place}{mean}.png"
@@ -78,6 +85,19 @@ def create_topchart_files(directory=None):
         for kind in ('confirmed','recovered','deaths','infected'):
             nameparts['kind']=kind
             topchart(kind,file=filenametemplate.format(**nameparts), mean=mean)
+        for kind in ('confirmed','recovered','deaths','infected'):
+            nameparts['place']="_EU"
+            title=kind+" in EU"
+            df=get_data(kind,False)
+            if mean:
+                title+=" (14 day average)"
+                df=calculate_nd_mean(df)
+            chart(df,order_countries_using_yesterdays_data(df,EU_countries)[:10],
+                file=filenametemplate.format(**nameparts),title=title)
+            title=title.replace("EU"," Nordic countries")
+            nameparts['place']="_Nordics"
+            chart(df,order_countries_using_yesterdays_data(df,Nordics),
+                file=filenametemplate.format(**nameparts),title=title)
         nameparts['place']="_US"
         for kind in ('confirmed','deaths','infected'):
             nameparts['kind']=kind
