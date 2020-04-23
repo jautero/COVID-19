@@ -51,6 +51,7 @@ def chart(df,countries,title="No title",file=None):
         df.loc[countries].plot()
     if file:
         plt.savefig(file)
+        plt.close()
     else:
         plt.show()
 
@@ -74,7 +75,7 @@ def topchart(kind,count=10,file=None,US_states=False, mean=False):
 def order_countries_using_date(df,countries,order_date=None):
     if not order_date:
         order_date=datetime.date.today()-datetime.timedelta(days=1)
-    return sorted(countries,key=lambda country: df.at(country,order_date.isoformat()))
+    return sorted(countries,key=lambda country: df.at[country,order_date.isoformat()])
 
 def create_topchart_files(directory=None):
     nameparts={}
@@ -87,6 +88,7 @@ def create_topchart_files(directory=None):
             nameparts['kind']=kind
             topchart(kind,file=filenametemplate.format(**nameparts), mean=mean)
         for kind in ('confirmed','recovered','deaths','infected'):
+            nameparts['kind']=kind
             nameparts['place']="_EU"
             title=kind+" in EU"
             df=get_data(kind,False)
