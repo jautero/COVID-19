@@ -4,8 +4,8 @@ def update_data(repo):
     cmd=repo.git()
     cmd.pull('upstream','master')
     cmd.push()
-    create_list("peaked.md")
-    repo.index.add("peaked.md")
+    create_list("docs/peaked.md")
+    repo.index.add("docs/peaked.md")
     repo.git.commit('-m',"Updated 'peaked.md'.")
 
 def update_docs(repo):
