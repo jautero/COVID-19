@@ -53,4 +53,6 @@
 
 ![Graph of infections of top 10 countries](infected_Nordics_c14davg.png)
 
+### Countries that seem to have passed peak
+
 {% include_relative peaked.md %}
