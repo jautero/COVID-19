@@ -106,5 +106,9 @@ def create_topchart_files(directory=None):
             nameparts['kind']=kind
             topchart(kind,file=filenametemplate.format(**nameparts),US_states=True,mean=mean)
 
+def peaked_countries(df):
+    df=order_with_latest_data(calculate_nd_mean(df))
+    return df[df[df.columns[-1]]<df.max(1)].index
+
 if __name__ == '__main__':
     create_topchart_files()
