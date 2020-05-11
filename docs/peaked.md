@@ -20,48 +20,50 @@
 # Australia
 # Cuba
 # Lithuania
-# Uzbekistan
 # Slovakia
+# Uzbekistan
 # North Macedonia
 # Croatia
 # Tunisia
-# Cyprus
-# Luxembourg
-# Lebanon
 # Azerbaijan
+# Cyprus
+# Lebanon
+# Luxembourg
 # Latvia
 # Kosovo
 # Djibouti
+# Georgia
 # Costa Rica
 # Andorra
 # Thailand
 # Albania
-# Niger
 # Kyrgyzstan
+# Niger
 # West Bank and Gaza
 # Uruguay
 # New Zealand
 # Burkina Faso
 # Burma
-# Taiwan*
 # Jordan
-# Iceland
+# Taiwan*
 # Malta
+# Iceland
 # Montenegro
-# Diamond Princess
 # Ethiopia
+# Diamond Princess
 # Bahamas
 # Mozambique
 # Madagascar
 # Vietnam
 # Libya
 # Barbados
-# Trinidad and Tobago
 # Uganda
+# Trinidad and Tobago
 # Zimbabwe
 # Mauritius
-# Monaco
+# Mongolia
 # Liechtenstein
+# Monaco
 # Syria
 # Botswana
 # Antigua and Barbuda
@@ -71,9 +73,9 @@
 # Timor-Leste
 # Grenada
 # Saint Vincent and the Grenadines
-# Belize
-# Namibia
 # Gambia
+# Namibia
+# Belize
 # Saint Kitts and Nevis
 # Fiji
 # Papua New Guinea
