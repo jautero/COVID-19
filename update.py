@@ -18,7 +18,8 @@ def create_list(filename):
     df=covid19.get_data('infected',False)
     countrylist=covid19.peaked_countries(df)
     newfile=open(filename,"w")
-    newfile.writelines(map(lambda x: "# {0:s}\n".format(x),countrylist))
+    newfile.writelines(map(lambda x: "* {0:s}\n".format(x),countrylist))
+    newfile.write(f"\nTotal: {len(countrylist)}")
     newfile.close()
 
 if __name__ == '__main__':
