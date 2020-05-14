@@ -1,89 +1,91 @@
-# Italy
-# Spain
-# Turkey
-# Germany
-# Iran
-# Japan
-# China
-# Ireland
-# Switzerland
-# Israel
-# Panama
-# Czechia
-# Denmark
-# Austria
-# Finland
-# Malaysia
-# Korea, South
-# Greece
-# Estonia
-# Australia
-# Cuba
-# Lithuania
-# Slovakia
-# Uzbekistan
-# North Macedonia
-# Croatia
-# Tunisia
-# Azerbaijan
-# Cyprus
-# Lebanon
-# Luxembourg
-# Latvia
-# Kosovo
-# Djibouti
-# Georgia
-# Costa Rica
-# Andorra
-# Thailand
-# Albania
-# Kyrgyzstan
-# Niger
-# West Bank and Gaza
-# Uruguay
-# New Zealand
-# Burkina Faso
-# Burma
-# Jordan
-# Taiwan*
-# Malta
-# Iceland
-# Montenegro
-# Ethiopia
-# Diamond Princess
-# Bahamas
-# Mozambique
-# Madagascar
-# Vietnam
-# Libya
-# Barbados
-# Uganda
-# Trinidad and Tobago
-# Zimbabwe
-# Mauritius
-# Mongolia
-# Liechtenstein
-# Monaco
-# Syria
-# Botswana
-# Antigua and Barbuda
-# Eritrea
-# Brunei
-# Laos
-# Timor-Leste
-# Grenada
-# Saint Vincent and the Grenadines
-# Gambia
-# Namibia
-# Belize
-# Saint Kitts and Nevis
-# Fiji
-# Papua New Guinea
-# Seychelles
-# Mauritania
-# Suriname
-# Dominica
-# Cambodia
-# Bhutan
-# Saint Lucia
-# Western Sahara
+* Italy
+* Spain
+* Turkey
+* Germany
+* Iran
+* Japan
+* China
+* Romania
+* Ireland
+* Serbia
+* Switzerland
+* Israel
+* Panama
+* Czechia
+* Morocco
+* Denmark
+* Austria
+* Finland
+* Malaysia
+* Korea, South
+* Greece
+* Estonia
+* Australia
+* Cuba
+* Lithuania
+* Azerbaijan
+* Uzbekistan
+* Slovakia
+* North Macedonia
+* Croatia
+* Cyprus
+* San Marino
+* Tunisia
+* Luxembourg
+* Latvia
+* Djibouti
+* Kosovo
+* Georgia
+* Costa Rica
+* Kyrgyzstan
+* Thailand
+* Andorra
+* Albania
+* Niger
+* Uruguay
+* Burkina Faso
+* West Bank and Gaza
+* New Zealand
+* Rwanda
+* Jordan
+* Burma
+* Taiwan*
+* Malta
+* Diamond Princess
+* Bahamas
+* Madagascar
+* Iceland
+* Montenegro
+* Vietnam
+* Libya
+* Barbados
+* Zimbabwe
+* Mongolia
+* Liechtenstein
+* Trinidad and Tobago
+* Mauritius
+* Syria
+* Monaco
+* Botswana
+* Antigua and Barbuda
+* Brunei
+* Laos
+* Grenada
+* Saint Vincent and the Grenadines
+* Eritrea
+* Namibia
+* Belize
+* Timor-Leste
+* Fiji
+* Saint Kitts and Nevis
+* Mauritania
+* Seychelles
+* Bhutan
+* Papua New Guinea
+* Suriname
+* Dominica
+* Cambodia
+* Saint Lucia
+* Western Sahara
+
+Total: 89
