@@ -3,11 +3,11 @@
 * Turkey
 * Germany
 * Iran
-* Japan
 * China
+* Japan
 * Romania
-* Ireland
 * Serbia
+* Ireland
 * Switzerland
 * Israel
 * Panama
@@ -23,38 +23,36 @@
 * Estonia
 * Bosnia and Herzegovina
 * Australia
-* Azerbaijan
 * Lithuania
 * Cuba
 * Uzbekistan
-* Slovakia
 * North Macedonia
-* Croatia
+* Slovakia
 * Sri Lanka
+* Croatia
 * San Marino
 * Cyprus
-* Tunisia
 * Latvia
+* Tunisia
 * Luxembourg
 * Jamaica
 * Djibouti
-* Kosovo
 * Georgia
+* Kosovo
 * Costa Rica
 * Kyrgyzstan
 * Thailand
-* Andorra
 * Albania
+* Andorra
 * Niger
 * Burkina Faso
 * Uruguay
-* West Bank and Gaza
-* New Zealand
 * Jordan
+* New Zealand
+* West Bank and Gaza
 * Rwanda
 * Burma
 * Taiwan*
-* Madagascar
 * Malta
 * Diamond Princess
 * Bahamas
@@ -66,8 +64,8 @@
 * Zimbabwe
 * Liechtenstein
 * Mauritius
-* Trinidad and Tobago
 * Syria
+* Trinidad and Tobago
 * Monaco
 * Botswana
 * Antigua and Barbuda
@@ -86,7 +84,7 @@
 * Dominica
 * Cambodia
 * Saint Lucia
-* Papua New Guinea
 * Western Sahara
+* Papua New Guinea
 
-Total: 90/188
+Total: 88/188
