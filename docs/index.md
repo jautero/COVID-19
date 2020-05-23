@@ -43,7 +43,15 @@
 
 ![Graph of deaths of top 10 US states](deaths_US_c14davg.png)
 
-## Active infections
+## Current infections
+
+Johns Hopkins has data for confirmed cases, deaths and recoveries. When
+deaths and recoveries are subtracted from confirmed cases, we get estimate 
+of current infections. The advantage is that this is not cumulative and
+produces downward trend when the peak of epidemy is passed.
+
+> There is something strange happening to Spain's figures. Probably
+> yesterday's data for recovered was missing causing miscalculation.
 
 ### Top 10 Countries
 
@@ -53,6 +61,6 @@
 
 ![Graph of infections of top 10 countries](infected_Nordics_c14davg.png)
 
-### Countries that seem to have passed peak
+### Countries that seem to have passed peak of epidemy
 
 {% include_relative peaked.md %}
