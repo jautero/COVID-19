@@ -10,15 +10,15 @@
 * China
 * Romania
 * Dominican Republic
-* Norway
 * Serbia
+* Norway
 * Ireland
 * Japan
 * Switzerland
 * Panama
 * Israel
-* Morocco
 * Czechia
+* Morocco
 * Hungary
 * Denmark
 * Austria
@@ -29,32 +29,32 @@
 * Bosnia and Herzegovina
 * Australia
 * Estonia
-* Slovenia
 * North Macedonia
-* Lebanon
+* Slovenia
 * Lithuania
+* Lebanon
 * Paraguay
 * Uzbekistan
-* San Marino
 * Sri Lanka
+* San Marino
 * Cuba
 * Cyprus
-* Croatia
 * Jamaica
+* Croatia
 * Latvia
 * Luxembourg
-* Slovakia
 * Costa Rica
+* Slovakia
 * Kosovo
 * Georgia
-* Tunisia
-* Niger
 * Albania
+* Niger
+* Tunisia
 * Jordan
-* Thailand
 * Burkina Faso
-* Andorra
+* Thailand
 * Uruguay
+* Andorra
 * Benin
 * Eswatini
 * Malta
@@ -68,8 +68,8 @@
 * Taiwan*
 * Libya
 * Syria
-* Barbados
 * Liechtenstein
+* Barbados
 * Iceland
 * Montenegro
 * Mauritius
@@ -87,13 +87,13 @@
 * Fiji
 * Suriname
 * Cambodia
+* Western Sahara
 * Timor-Leste
 * Saint Kitts and Nevis
-* Western Sahara
 * Seychelles
 * Dominica
 * Eritrea
-* Saint Lucia
 * Papua New Guinea
+* Saint Lucia
 
 Total: 97/188
