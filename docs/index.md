@@ -1,3 +1,7 @@
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
 <script>
     function toggle_avg(checkbox) {
         if (checkbox.checked) {
