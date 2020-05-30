@@ -1,7 +1,5 @@
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
-This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
-
 <script>
     function toggle_avg(checkbox) {
         if (checkbox.checked) {
@@ -17,6 +15,7 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
         }
     }
 </script>
+<script async defer data-domain="eipystyilman.beer" src="https://plausible.io/js/plausible.js"></script>
 
 <input type="checkbox" onchange="toggle_avg(this);" checked> Use 14 day average
 ## Confirmed infections
