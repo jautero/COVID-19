@@ -1,12 +1,12 @@
-* France
-* Italy
 * Spain
+* Italy
 * Turkey
 * Qatar
 * Germany
 * Saudi Arabia
 * Ecuador
 * Portugal
+* Kuwait
 * Singapore
 * China
 * Romania
@@ -15,6 +15,7 @@
 * Panama
 * Ireland
 * Switzerland
+* Algeria
 * Japan
 * Czechia
 * Israel
@@ -24,10 +25,11 @@
 * Denmark
 * Finland
 * Greece
+* Guinea
 * Bulgaria
 * Malaysia
-* Norway
 * Korea, South
+* Norway
 * Bosnia and Herzegovina
 * North Macedonia
 * Uzbekistan
@@ -37,16 +39,16 @@
 * Lebanon
 * Chad
 * San Marino
-* Zambia
 * Costa Rica
+* Zambia
 * Latvia
 * Cuba
 * Estonia
 * Luxembourg
 * Jamaica
 * Croatia
-* Kosovo
 * Albania
+* Kosovo
 * Cyprus
 * Cabo Verde
 * Togo
@@ -81,21 +83,21 @@
 * Monaco
 * Antigua and Barbuda
 * Gambia
-* Namibia
 * Saint Vincent and the Grenadines
+* Namibia
 * Brunei
 * Grenada
 * Belize
 * Laos
-* Fiji
 * Western Sahara
+* Fiji
 * Cambodia
 * Dominica
-* Papua New Guinea
 * Saint Lucia
-* Eritrea
-* Saint Kitts and Nevis
-* Seychelles
 * Timor-Leste
+* Seychelles
+* Saint Kitts and Nevis
+* Eritrea
+* Papua New Guinea
 
-Total: 99/188
+Total: 101/188
