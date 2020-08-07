@@ -1,114 +1,123 @@
 * Russia
+* South Africa
 * Italy
 * Egypt
-* Pakistan
+* Philippines
+* Ecuador
 * Saudi Arabia
+* Pakistan
 * Chile
+* Israel
+* Kazakhstan
 * Germany
 * Canada
 * Turkey
+* Nigeria
 * Oman
-* Guatemala
 * Portugal
-* Afghanistan
+* Guatemala
 * Poland
-* Armenia
+* Afghanistan
+* Kyrgyzstan
 * China
+* Armenia
 * Kuwait
-* Azerbaijan
-* Japan
-* Belarus
 * United Arab Emirates
-* Moldova
-* Venezuela
-* Cote d'Ivoire
-* Nepal
+* West Bank and Gaza
+* Azerbaijan
+* Belarus
 * Switzerland
-* Czechia
+* Nepal
 * Singapore
+* Czechia
+* Cote d'Ivoire
+* North Macedonia
 * Ireland
-* Bahrain
 * Ghana
-* Congo (Kinshasa)
 * Qatar
-* Morocco
-* Haiti
+* Bahrain
+* Madagascar
 * Central African Republic
+* Haiti
 * Austria
+* Congo (Kinshasa)
 * Cameroon
 * Gabon
-* Mauritania
+* Congo (Brazzaville)
+* Zambia
+* Montenegro
+* Denmark
+* Hungary
 * Somalia
 * Paraguay
-* Hungary
-* Denmark
-* Korea, South
 * Luxembourg
+* Mauritania
+* Korea, South
 * Tajikistan
-* Croatia
-* Guinea-Bissau
-* South Sudan
-* Nicaragua
-* Guinea
-* Cabo Verde
-* Norway
-* Benin
-* Finland
-* Mali
 * Maldives
-* Sri Lanka
-* Liberia
+* South Sudan
+* Guinea-Bissau
+* Croatia
+* Guinea
+* Finland
+* Cabo Verde
+* Benin
+* Norway
+* Mali
 * Slovakia
+* Liberia
 * Sierra Leone
-* Slovenia
 * Lithuania
+* Sri Lanka
+* Slovenia
 * Malaysia
 * Tunisia
 * Cuba
-* Sao Tome and Principe
-* Thailand
 * Uruguay
 * Cyprus
+* Thailand
 * Burkina Faso
-* Latvia
 * Georgia
-* Djibouti
+* Latvia
 * Estonia
+* Djibouti
 * Chad
 * Niger
-* Jordan
 * Andorra
 * Jamaica
-* Uganda
-* Eritrea
-* San Marino
-* Seychelles
-* Diamond Princess
-* Mongolia
-* Burma
-* New Zealand
-* Cambodia
-* Vietnam
-* Iceland
 * Malta
+* Sao Tome and Principe
+* Uganda
+* Jordan
+* Burundi
+* San Marino
+* Diamond Princess
+* Iceland
+* New Zealand
+* Eritrea
+* Burma
+* Cambodia
+* Mongolia
+* Seychelles
 * Comoros
 * Trinidad and Tobago
 * Taiwan*
+* Barbados
 * Antigua and Barbuda
 * Mauritius
-* Barbados
 * Monaco
 * Bhutan
+* Saint Vincent and the Grenadines
 * Fiji
 * Brunei
 * Liechtenstein
-* Saint Lucia
 * Western Sahara
+* Saint Lucia
 * Saint Kitts and Nevis
 * Laos
-* Dominica
-* Holy See
 * Grenada
 * Timor-Leste
+* Dominica
+* Holy See
 
-Total: 112/188
+Total: 121/188
