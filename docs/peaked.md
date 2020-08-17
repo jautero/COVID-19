@@ -5,16 +5,18 @@
 * Egypt
 * Saudi Arabia
 * Chile
+* Dominican Republic
 * Pakistan
 * Germany
-* Ecuador
 * Kazakhstan
 * Israel
+* Ecuador
 * Canada
 * Turkey
 * Portugal
 * Nigeria
 * Guatemala
+* Kenya
 * Afghanistan
 * China
 * Kyrgyzstan
@@ -35,60 +37,58 @@
 * Cote d'Ivoire
 * Qatar
 * Bahrain
-* Ghana
 * Central African Republic
-* Cameroon
 * Austria
+* Ghana
+* Cameroon
 * Haiti
 * Denmark
-* Madagascar
 * Namibia
+* Madagascar
 * Gabon
 * Congo (Brazzaville)
 * Hungary
 * Zambia
 * Somalia
 * Congo (Kinshasa)
-* Montenegro
 * Korea, South
-* Luxembourg
 * South Sudan
+* Montenegro
 * Tajikistan
-* Mauritania
+* Luxembourg
 * Guinea-Bissau
+* Mauritania
 * Norway
 * Guinea
 * Croatia
 * Finland
-* Rwanda
 * Cabo Verde
+* Rwanda
 * Slovakia
 * Mali
 * Lithuania
-* Liberia
 * Cuba
-* Sierra Leone
+* Liberia
 * Tunisia
-* Benin
+* Sierra Leone
 * Slovenia
+* Benin
 * Malaysia
 * Cyprus
-* Togo
-* Sri Lanka
 * Djibouti
+* Jamaica
+* Sri Lanka
 * Uruguay
 * Burkina Faso
-* Jamaica
-* Thailand
 * Estonia
 * Latvia
+* Thailand
 * Georgia
-* Chad
 * Uganda
+* Chad
 * Andorra
 * Niger
 * Iceland
-* Burundi
 * Jordan
 * Sao Tome and Principe
 * San Marino
@@ -96,25 +96,25 @@
 * Diamond Princess
 * Burma
 * Eritrea
-* Comoros
 * Taiwan*
+* Comoros
 * Cambodia
 * Barbados
 * Mongolia
 * Monaco
 * Mauritius
-* Antigua and Barbuda
 * Bhutan
+* Antigua and Barbuda
 * Fiji
 * Brunei
-* Seychelles
 * Saint Vincent and the Grenadines
 * Liechtenstein
 * Western Sahara
 * Laos
-* Saint Lucia
+* Seychelles
 * Grenada
 * Timor-Leste
+* Saint Lucia
 * Saint Kitts and Nevis
 * Holy See
 * Dominica
