@@ -5,18 +5,18 @@
 * South Africa
 * Argentina
 * Italy
-* Bolivia
 * Philippines
+* Bolivia
 * Chile
 * Egypt
 * Germany
 * Dominican Republic
 * Saudi Arabia
-* Panama
 * Turkey
+* Panama
 * Israel
-* Pakistan
 * Canada
+* Pakistan
 * Ecuador
 * Portugal
 * Japan
@@ -41,30 +41,30 @@
 * Austria
 * Uzbekistan
 * North Macedonia
-* Bahrain
 * Korea, South
+* Bahrain
 * Qatar
 * Central African Republic
 * Azerbaijan
 * Denmark
 * Haiti
 * Malawi
-* Belarus
 * Cameroon
-* Singapore
-* Cote d'Ivoire
+* Belarus
 * Congo (Brazzaville)
-* Ghana
+* Cote d'Ivoire
+* Singapore
 * Hungary
+* Ghana
 * Equatorial Guinea
 * Gabon
-* Zimbabwe
 * Norway
 * Eswatini
+* Zimbabwe
 * Yemen
-* Zambia
 * South Sudan
 * Tajikistan
+* Zambia
 * Madagascar
 * Guinea
 * Congo (Kinshasa)
@@ -72,17 +72,18 @@
 * Finland
 * Montenegro
 * Suriname
-* Somalia
-* Cabo Verde
 * Lithuania
+* Cabo Verde
+* Somalia
 * Mauritania
 * Mali
 * Cuba
-* Luxembourg
+* Malta
 * Slovenia
+* Luxembourg
 * Lesotho
-* Liberia
 * Cyprus
+* Liberia
 * Sierra Leone
 * Vietnam
 * Benin
@@ -91,8 +92,8 @@
 * Georgia
 * Uruguay
 * Latvia
-* Thailand
 * Andorra
+* Thailand
 * Chad
 * Djibouti
 * Sri Lanka
@@ -119,11 +120,11 @@
 * Western Sahara
 * Saint Vincent and the Grenadines
 * Laos
-* Timor-Leste
 * Dominica
+* Timor-Leste
 * Saint Lucia
 * Grenada
-* Saint Kitts and Nevis
 * Holy See
+* Saint Kitts and Nevis
 
-Total: 127/188
+Total: 128/188
