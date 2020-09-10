@@ -11,8 +11,8 @@
 * Germany
 * Turkey
 * Egypt
-* Dominican Republic
 * Saudi Arabia
+* Dominican Republic
 * Israel
 * Canada
 * Ecuador
@@ -23,10 +23,10 @@
 * Nigeria
 * Japan
 * El Salvador
+* Venezuela
+* China
 * Afghanistan
 * Kazakhstan
-* China
-* Venezuela
 * United Arab Emirates
 * Kuwait
 * Switzerland
@@ -47,27 +47,27 @@
 * Uzbekistan
 * Central African Republic
 * Maldives
-* Haiti
 * Denmark
-* Congo (Brazzaville)
+* Haiti
 * Malawi
+* Congo (Brazzaville)
 * Gambia
-* Belarus
 * Norway
+* Belarus
 * Cameroon
 * Zimbabwe
 * Ghana
-* Cote d'Ivoire
 * Yemen
-* Gabon
+* Cote d'Ivoire
 * South Sudan
-* Tajikistan
 * Madagascar
+* Tajikistan
+* Gabon
 * Finland
 * Zambia
 * Montenegro
-* Eswatini
 * Guinea-Bissau
+* Eswatini
 * Congo (Kinshasa)
 * Singapore
 * Guinea
@@ -75,27 +75,27 @@
 * Luxembourg
 * Equatorial Guinea
 * Somalia
-* Cabo Verde
 * Cuba
-* Mali
+* Cabo Verde
 * Slovenia
+* Mali
 * Mauritania
 * Lesotho
-* Malta
 * Sierra Leone
+* Malta
 * Benin
 * Malaysia
 * Cyprus
 * Estonia
-* Liberia
-* Vietnam
 * Andorra
+* Liberia
 * Georgia
+* Vietnam
 * Latvia
 * Uruguay
 * Thailand
-* Chad
 * Sri Lanka
+* Chad
 * New Zealand
 * Niger
 * Djibouti
