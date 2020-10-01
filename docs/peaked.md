@@ -21,11 +21,11 @@
 * Pakistan
 * Poland
 * Egypt
+* Libya
 * Guatemala
 * Kenya
-* Libya
-* Venezuela
 * Switzerland
+* Venezuela
 * United Arab Emirates
 * West Bank and Gaza
 * Japan
@@ -49,15 +49,15 @@
 * Qatar
 * Central African Republic
 * Azerbaijan
-* Korea, South
 * Norway
+* Korea, South
 * Namibia
 * Haiti
 * Trinidad and Tobago
 * Croatia
 * Zimbabwe
-* Malawi
 * Finland
+* Malawi
 * Cameroon
 * Rwanda
 * Gambia
@@ -83,19 +83,20 @@
 * Guinea
 * Cabo Verde
 * Estonia
+* Malta
 * Mauritania
 * Equatorial Guinea
-* Singapore
 * Benin
-* Suriname
+* Singapore
 * Latvia
-* Uruguay
-* Cyprus
+* Suriname
 * Iceland
+* Cyprus
+* Uruguay
 * Chad
 * Thailand
-* Sri Lanka
 * Liberia
+* Sri Lanka
 * Papua New Guinea
 * Niger
 * Vietnam
@@ -106,8 +107,8 @@
 * Bhutan
 * Eritrea
 * Sao Tome and Principe
-* Burundi
 * Monaco
+* Burundi
 * Mauritius
 * Taiwan*
 * Comoros
@@ -129,4 +130,4 @@
 * Grenada
 * Holy See
 
-Total: 130/188
+Total: 131/188
