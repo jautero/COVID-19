@@ -1,122 +1,119 @@
 * India
 * Brazil
+* Mexico
 * Argentina
 * Colombia
 * Peru
-* Bangladesh
 * South Africa
+* Bangladesh
 * Indonesia
 * Turkey
 * Philippines
-* Canada
 * Ethiopia
 * Nepal
 * Bolivia
 * Chile
 * Ecuador
-* Panama
 * Pakistan
+* Panama
 * Dominican Republic
-* Burma
-* Israel
 * Saudi Arabia
-* Guatemala
+* Burma
+* Georgia
+* Israel
 * Egypt
-* Oman
 * Belarus
+* Guatemala
 * Japan
+* Oman
+* Kyrgyzstan
 * China
 * Kuwait
-* Kyrgyzstan
 * Afghanistan
-* West Bank and Gaza
-* Norway
 * Kazakhstan
+* West Bank and Gaza
 * Venezuela
-* United Arab Emirates
-* Nigeria
 * El Salvador
-* Montenegro
-* Kosovo
-* Bahrain
+* Nigeria
 * Uzbekistan
 * Qatar
-* Botswana
+* United Arab Emirates
 * Australia
+* Bahrain
 * Central African Republic
-* Mozambique
 * Korea, South
+* Mozambique
 * Bahamas
-* Namibia
-* Cameroon
+* Botswana
 * Haiti
+* Namibia
 * South Sudan
-* Senegal
 * Congo (Brazzaville)
-* Trinidad and Tobago
 * Nicaragua
-* Guinea
-* Yemen
-* Zambia
-* Ghana
-* Guyana
-* Cabo Verde
+* Cameroon
+* Andorra
 * Estonia
-* Congo (Kinshasa)
-* Gambia
-* Maldives
-* Mali
-* Iceland
-* Tajikistan
-* Madagascar
-* Malawi
+* Yemen
+* Ghana
+* Zambia
 * Somalia
+* Guyana
+* Congo (Kinshasa)
+* Madagascar
+* Mali
+* Trinidad and Tobago
+* Iceland
+* Cabo Verde
+* Maldives
+* Tajikistan
+* Senegal
 * Cuba
+* Malawi
 * Zimbabwe
 * Sierra Leone
 * Guinea-Bissau
-* Eswatini
-* Mauritania
-* Burkina Faso
+* Uruguay
 * Cote d'Ivoire
-* Gabon
+* Mauritania
+* Eswatini
+* San Marino
+* Gambia
+* Burkina Faso
+* Chad
 * Benin
 * Rwanda
-* Chad
+* Gabon
 * Thailand
 * Suriname
 * Liberia
 * Equatorial Guinea
 * Djibouti
-* San Marino
-* Niger
 * Vietnam
-* Singapore
+* Niger
 * New Zealand
-* Monaco
-* Diamond Princess
+* Singapore
 * Burundi
-* Eritrea
+* Diamond Princess
 * Sao Tome and Principe
-* Mauritius
-* Taiwan*
-* Papua New Guinea
 * Comoros
-* Bhutan
+* Eritrea
+* Taiwan*
+* Mauritius
 * Mongolia
+* Bhutan
+* Papua New Guinea
 * Barbados
 * Antigua and Barbuda
 * Holy See
-* Dominica
-* Brunei
 * Cambodia
-* Saint Vincent and the Grenadines
-* Fiji
+* Brunei
 * Seychelles
-* Grenada
+* Fiji
+* Saint Vincent and the Grenadines
 * Western Sahara
-* Laos
+* Grenada
 * Timor-Leste
+* Laos
 * Saint Kitts and Nevis
 
-Total: 120/190
+Total: 117/190
