@@ -8,9 +8,9 @@
 * Indonesia
 * Iraq
 * Turkey
+* Canada
 * Philippines
 * Tunisia
-* Canada
 * Ethiopia
 * Nepal
 * Bolivia
@@ -21,6 +21,7 @@
 * Dominican Republic
 * Burma
 * Saudi Arabia
+* Georgia
 * Israel
 * Egypt
 * Guatemala
@@ -38,8 +39,8 @@
 * El Salvador
 * Finland
 * United Arab Emirates
-* Bahrain
 * Uzbekistan
+* Bahrain
 * Qatar
 * Australia
 * Central African Republic
@@ -55,26 +56,25 @@
 * Congo (Brazzaville)
 * Nicaragua
 * Andorra
-* Yemen
 * Ghana
-* Trinidad and Tobago
+* Yemen
 * Estonia
 * Zambia
-* Senegal
+* Trinidad and Tobago
 * Guyana
+* Senegal
 * Lesotho
 * Congo (Kinshasa)
-* Iceland
 * Cabo Verde
-* Mali
-* Madagascar
+* Iceland
 * Somalia
+* Madagascar
 * Maldives
 * Tajikistan
 * Malawi
 * Cuba
-* Gambia
 * Zimbabwe
+* Gambia
 * Sierra Leone
 * Guinea-Bissau
 * Mauritania
@@ -85,9 +85,9 @@
 * Benin
 * Rwanda
 * Chad
+* San Marino
 * Thailand
 * Suriname
-* San Marino
 * Liberia
 * Equatorial Guinea
 * Djibouti
@@ -110,8 +110,8 @@
 * Holy See
 * Brunei
 * Cambodia
-* Saint Vincent and the Grenadines
 * Fiji
+* Saint Vincent and the Grenadines
 * Seychelles
 * Grenada
 * Western Sahara
