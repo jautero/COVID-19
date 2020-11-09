@@ -8,7 +8,6 @@
 * Indonesia
 * Iraq
 * Turkey
-* Canada
 * Philippines
 * Tunisia
 * Ethiopia
@@ -34,6 +33,7 @@
 * Afghanistan
 * Kazakhstan
 * West Bank and Gaza
+* Sudan
 * Venezuela
 * Nigeria
 * El Salvador
@@ -57,32 +57,32 @@
 * Nicaragua
 * Andorra
 * Ghana
-* Yemen
 * Estonia
+* Yemen
 * Zambia
 * Trinidad and Tobago
 * Guyana
 * Senegal
 * Lesotho
 * Congo (Kinshasa)
-* Cabo Verde
-* Iceland
 * Somalia
+* Cabo Verde
 * Madagascar
+* Iceland
 * Maldives
 * Tajikistan
 * Malawi
 * Cuba
 * Zimbabwe
-* Gambia
 * Sierra Leone
+* Gambia
 * Guinea-Bissau
 * Mauritania
 * Cote d'Ivoire
 * Eswatini
+* Benin
 * Burkina Faso
 * Gabon
-* Benin
 * Rwanda
 * Chad
 * San Marino
@@ -99,8 +99,8 @@
 * Diamond Princess
 * Sao Tome and Principe
 * Eritrea
-* Mauritius
 * Taiwan*
+* Mauritius
 * Comoros
 * Mongolia
 * Papua New Guinea
