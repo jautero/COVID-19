@@ -38,8 +38,9 @@
 * West Bank and Gaza
 * Sudan
 * Venezuela
-* El Salvador
+* Sri Lanka
 * Nigeria
+* El Salvador
 * United Arab Emirates
 * Uzbekistan
 * Qatar
@@ -53,10 +54,10 @@
 * Namibia
 * Haiti
 * South Sudan
-* Cameroon
 * Congo (Brazzaville)
-* Nicaragua
 * Ghana
+* Nicaragua
+* Cameroon
 * Andorra
 * Yemen
 * Zambia
@@ -65,30 +66,30 @@
 * Lesotho
 * Congo (Kinshasa)
 * Mali
-* Trinidad and Tobago
 * Madagascar
-* Cabo Verde
+* Trinidad and Tobago
 * Maldives
+* Cabo Verde
 * Senegal
-* Iceland
 * Tajikistan
+* Iceland
 * Malawi
 * Cuba
 * Zimbabwe
 * Sierra Leone
 * Guinea-Bissau
 * Mauritania
-* Gambia
 * Cote d'Ivoire
 * Eswatini
-* Benin
+* Gambia
 * San Marino
+* Benin
 * Rwanda
 * Burkina Faso
 * Chad
-* Gabon
 * Suriname
 * Thailand
+* Gabon
 * Liberia
 * Equatorial Guinea
 * Djibouti
@@ -101,8 +102,8 @@
 * Sao Tome and Principe
 * Taiwan*
 * Eritrea
-* Mauritius
 * Mongolia
+* Mauritius
 * Comoros
 * Bhutan
 * Barbados
@@ -121,4 +122,4 @@
 * Timor-Leste
 * Saint Kitts and Nevis
 
-Total: 122/191
+Total: 123/191
