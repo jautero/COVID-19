@@ -4,12 +4,13 @@
 * Iran
 * Poland
 * Argentina
-* Turkey
 * Hungary
+* Turkey
 * Colombia
 * South Africa
 * Switzerland
 * Czechia
+* Canada
 * Romania
 * Peru
 * Bulgaria
@@ -22,28 +23,28 @@
 * Slovakia
 * Chile
 * Morocco
-* Philippines
 * Greece
+* Philippines
 * Ecuador
 * Austria
 * Bosnia and Herzegovina
-* Costa Rica
-* Jordan
-* Tunisia
 * Israel
+* Costa Rica
+* Tunisia
+* Jordan
 * Bolivia
 * Libya
 * Paraguay
 * Kazakhstan
-* Georgia
 * Egypt
+* Georgia
 * North Macedonia
 * West Bank and Gaza
 * Slovenia
 * Belarus
-* Croatia
 * Armenia
 * Burma
+* Croatia
 * Kenya
 * Moldova
 * Ethiopia
@@ -53,24 +54,24 @@
 * Afghanistan
 * Nigeria
 * Nepal
-* China
 * Latvia
+* China
 * Montenegro
 * Finland
 * Oman
 * Sri Lanka
 * Luxembourg
-* Kyrgyzstan
 * Angola
+* Kyrgyzstan
 * Venezuela
 * El Salvador
 * Kuwait
-* Jamaica
 * Australia
-* Uzbekistan
 * Namibia
-* Belize
+* Jamaica
+* Uzbekistan
 * Central African Republic
+* Belize
 * Congo (Kinshasa)
 * Zimbabwe
 * Qatar
@@ -78,16 +79,15 @@
 * Bahrain
 * Mozambique
 * Cameroon
-* Malta
 * Nicaragua
+* Malta
 * Bahamas
 * Senegal
 * Ghana
 * Haiti
 * Zambia
-* Congo (Brazzaville)
 * Rwanda
-* Thailand
+* Congo (Brazzaville)
 * Yemen
 * Somalia
 * Eswatini
@@ -100,11 +100,11 @@
 * Maldives
 * Tajikistan
 * Cote d'Ivoire
-* Mongolia
-* Liberia
 * Suriname
-* Togo
+* Liberia
+* Mongolia
 * Cabo Verde
+* Togo
 * San Marino
 * Chad
 * South Sudan
@@ -122,24 +122,24 @@
 * Guinea-Bissau
 * New Zealand
 * Burundi
-* Bhutan
-* Sao Tome and Principe
 * Comoros
+* Sao Tome and Principe
+* Grenada
 * Barbados
 * Mauritius
 * Saint Lucia
 * Diamond Princess
 * Seychelles
-* Cambodia
 * Antigua and Barbuda
+* Cambodia
 * Holy See
 * Brunei
 * Fiji
 * Dominica
 * Saint Kitts and Nevis
-* Laos
-* MS Zaandam
 * Timor-Leste
+* MS Zaandam
+* Laos
 * Samoa
 * Marshall Islands
 * Vanuatu
