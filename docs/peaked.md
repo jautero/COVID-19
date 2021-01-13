@@ -4,47 +4,46 @@
 * Ukraine
 * Poland
 * Iran
-* Colombia
 * Hungary
 * Czechia
 * Turkey
 * Peru
-* Bulgaria
 * Romania
+* Bulgaria
 * Lithuania
+* Israel
 * Iraq
 * Bangladesh
-* Israel
 * Pakistan
 * Greece
 * Chile
-* Philippines
 * Tunisia
+* Philippines
 * Ecuador
 * Costa Rica
 * Bolivia
 * Bosnia and Herzegovina
-* Morocco
 * Egypt
+* Morocco
 * Austria
 * Denmark
 * Kazakhstan
 * Libya
-* Azerbaijan
 * Paraguay
+* Azerbaijan
 * Jordan
 * United Arab Emirates
 * North Macedonia
 * West Bank and Gaza
-* Belarus
 * Burma
+* Belarus
 * Korea, South
 * Kenya
-* Armenia
 * Nigeria
+* Armenia
 * Guatemala
-* Moldova
 * Ethiopia
+* Moldova
 * Croatia
 * Georgia
 * Saudi Arabia
@@ -67,20 +66,20 @@
 * Namibia
 * Australia
 * Bahrain
-* Qatar
 * Mozambique
+* Qatar
 * Botswana
-* Mauritania
 * Senegal
+* Mauritania
 * Mali
 * Jamaica
 * Uzbekistan
 * Cameroon
 * Malta
-* Central African Republic
 * Nicaragua
-* Bahamas
 * Malawi
+* Central African Republic
+* Bahamas
 * Haiti
 * Ghana
 * Congo (Brazzaville)
@@ -89,19 +88,19 @@
 * Belize
 * Cote d'Ivoire
 * Andorra
-* Madagascar
 * Maldives
-* Guinea
+* Madagascar
 * Suriname
+* Guinea
 * Guyana
 * Trinidad and Tobago
 * Cabo Verde
 * South Sudan
-* Liberia
 * Mongolia
 * San Marino
-* Tajikistan
+* Liberia
 * Togo
+* Tajikistan
 * Liechtenstein
 * Gambia
 * Gabon
@@ -119,9 +118,9 @@
 * Sao Tome and Principe
 * Mauritius
 * Diamond Princess
-* Grenada
 * Brunei
 * Antigua and Barbuda
+* Grenada
 * Cambodia
 * Holy See
 * Timor-Leste
@@ -131,8 +130,8 @@
 * MS Zaandam
 * Saint Kitts and Nevis
 * Laos
-* Samoa
 * Vanuatu
+* Samoa
 * Marshall Islands
 
-Total: 136/191
+Total: 135/191
